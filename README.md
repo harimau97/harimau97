@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=220&section=header&text=harimau97's GitHub&fontSize=60" />
+![header]("https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=220&section=header&text=harimau97's GitHub&fontSize=60")
 
 <div align="center">
 <h2>📚  Languages & Platforms</h2>
