@@ -34,8 +34,8 @@
 </div>
 
 <div align="center" display="flex">
-<h2> 📜 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=harimau97&show_icons=true&card_width=500&theme=solarized-dark">
+<!-- <h2> 📜 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=harimau97&show_icons=true&card_width=500&theme=solarized-dark"> -->
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harimau97&layout=compact&card_width=500&theme=solarized-dark">
 </div>
